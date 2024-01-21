@@ -1,3 +1,5 @@
+import {cart} from '../data/cart.js'; 
+
 let productsHTML = "";
 // products array coming from the products.js from the data folder
 products.forEach((product) => {
