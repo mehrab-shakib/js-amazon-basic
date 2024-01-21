@@ -1,4 +1,5 @@
 import {cart} from '../data/cart.js'; 
+import { products } from '../data/products.js';
 
 let productsHTML = "";
 // products array coming from the products.js from the data folder
